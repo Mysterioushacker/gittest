@@ -1,4 +1,4 @@
-git-test-project.iml
+*.iml
 .idea
 .settings
 target
